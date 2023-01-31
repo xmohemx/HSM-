@@ -18,7 +18,7 @@ sudo ../configure;
 
 sudo make;
 
-su -c "make install";
+sudo make install;
 
 echo "Logkeys have been successfully installed";
 
